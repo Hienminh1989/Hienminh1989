@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Hienminh1989
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @Hienminh1989
 
-<!---
-Hienminh1989/Hienminh1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about healthcare technology, artificial intelligence, and software development.
+
+* 👀 Interested in: Healthcare Information Systems (HIS), AI, automation, databases, and web development.
+* 🌱 Currently learning: AI-powered development, FastAPI, Python, SQL Server, and cloud technologies.
+* 💞️ Looking to collaborate on: Healthcare software, AI assistants, document management systems, and digital transformation projects.
+* 📫 Reach me: Through GitHub or email.
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I love turning complex business processes into simple and efficient software solutions.
